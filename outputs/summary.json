@@ -1,0 +1,14 @@
+{
+  "seed": 20260925,
+  "rows": 5840,
+  "revenue": 14909603.08,
+  "orders": 164351,
+  "conversion_rate": 0.058858,
+  "roi": 8.161869,
+  "charts": [
+    "outputs\\charts\\monthly_trends.png",
+    "outputs\\charts\\region_revenue.png",
+    "outputs\\charts\\channel_roi.png",
+    "outputs\\charts\\channel_spend_revenue.png"
+  ]
+}
